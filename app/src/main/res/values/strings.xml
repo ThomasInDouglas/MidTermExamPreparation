@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExamPreparation</string>
+    <string name="txtSpinnerPrompt">Choose an Option</string>
+    <string name="imgDiscription">Randome Logo</string>
+    <string name="txtTitle">Mid-Term Demo</string>
+    <string name="txtCaculate">Caculate what you want</string>
+    <string name="editTxtHint">Please enter your input</string>
+    <string name="txtCadToHkd">Covert HKD to CAD</string>
+    <string name="txtHkdToCad">Convert CAD to HKD</string>
+    <string name="txtAudio">Audio Page</string>
+    <string name="txtTitleAudio">Music Player</string>
+    <string-array name="dropDownOptions">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+</resources>
